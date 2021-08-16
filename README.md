@@ -1,6 +1,3 @@
-<p align="center"> <img src="https://media2.giphy.com/media/de5bARu0SsXiU/200.gif" width="800" height="300"> </p>
-
-
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello World, my name is Lawrence! 
 - 🎓 I recently graduated with a B.S. in Computer Science & Engineering from University of California, Irvine
 - 🧑🏻‍💻 I enjoy writing iOS apps. I created <em>JustWatchIt</em> and <em>DailyBreaker</em> (The repositories can be found below 👇🏻)
